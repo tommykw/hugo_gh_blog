@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tommykw Hugo Blog Template for GitHub Pages</title>
-    <link>http://tommykw.github.io/hugo_gh_blog/</link>
+    <link>http://tommykw.github.io/</link>
     <description>Recent content on Tommykw Hugo Blog Template for GitHub Pages</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://tommykw.github.io/hugo_gh_blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://tommykw.github.io/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
