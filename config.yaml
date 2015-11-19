@@ -4,8 +4,7 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://tommykw.github.io"
+baseurl: "http://tommykw.github.io/hugo_gh_blog"
 title: "Tommykw Hugo Blog Template for GitHub Pages"
-canonifyurls: true
 ---
 
