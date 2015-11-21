@@ -1,3 +1,3 @@
-# hugo_gh_blog
+# tommykw-hugo
 Template repository for a blog built with Hugo deployed on github-pages
 
