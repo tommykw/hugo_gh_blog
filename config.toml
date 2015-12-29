@@ -1,4 +1,7 @@
 baseurl = "http://tommykw.github.io"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
 languageCode = "en-us"
 title = "Hola!!"
 theme = "hugo-uno"
