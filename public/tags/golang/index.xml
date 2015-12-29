@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Golang on Hola!! </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/tags/golang/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Fri, 20 Nov 2015 22:26:00 JST</updated>
+    
+    <item>
+      <title>Get the app apk from Android terminal</title>
+      <link>http://localhost:1313/post/second/</link>
+      <pubDate>Fri, 20 Nov 2015 22:26:00 JST</pubDate>
+      
+      <guid>http://localhost:1313/post/second/</guid>
+      <description>&lt;p&gt;1.Connect to Android terminal
+2.adb shell pm list packages -f | grep $packagename
+3.apk pull $packagename&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Every day UI Automator</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Fri, 20 Nov 2015 22:25:05 JST</pubDate>
+      
+      <guid>http://localhost:1313/post/first/</guid>
+      <description>&lt;p&gt;UI testing framework. suitable for cross-app functional UI testing across system and installed apps.
+Attempt to seek new application design with UI Automator every day!&lt;/p&gt;
+
+&lt;p&gt;Android Studio -&amp;gt; Tools -&amp;gt; Android -&amp;gt; Android Device Monitor&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
