@@ -11,3 +11,4 @@ UI testing framework. suitable for cross-app functional UI testing across system
 Attempt to seek new application design with UI Automator every day!
 
 Android Studio -> Tools -> Android -> Android Device Monitor 
+
