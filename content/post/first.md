@@ -7,7 +7,13 @@ menu = "main"
 title = "Every day UI Automator"
 
 +++
-UI testing framework. suitable for cross-app functional UI testing across system and installed apps.
-Attempt to seek new application design with UI Automator every day!
+UI Automator is UI testing framework on Android. suitable for cross-app functional UI testing across system and installed apps.
+Attempt to search new application design with UI Automator every day!
 
-Android Studio -> Tools -> Android -> Android Device Monitor 
+* Usage
+```
+Android Studio 
+Tools 
+Android 
+Android Device Monitor 
+```
