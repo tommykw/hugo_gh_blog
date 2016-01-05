@@ -1,0 +1,20 @@
++++
+Categories = ["Development", "GoLang"]
+Description = ""
+Tags = ["Development", "golang"]
+date = "2016-01-05T19:40:20+09:00"
+menu = "main"
+title = "Kotlin scope function"
+
++++
+What are the different scope functions of Kotlin.
+There are `with` `run` `let` and `apply` in Kotlin.
+I want to know thw difference.
+
+** with
+
+** run
+
+** let
+
+** apply
