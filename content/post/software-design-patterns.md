@@ -15,7 +15,8 @@ title = "Software design patterns"
 - Singleton
 - Adapter
 - Bridge
-- Composite
+- Composite  
+  - [GoogleAPI](https://github.com/tommykw/GoogleAPI)
 - Facade
 - Flyweight
 - Proxy
