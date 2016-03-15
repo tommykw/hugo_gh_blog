@@ -12,3 +12,21 @@ title = "Software design patterns"
 - Abstract factory
 - Builder
 - Prototype
+- Singleton
+- Adapter
+- Bridge
+- Composite
+- Facade
+- Flyweight
+- Proxy
+- Chain of responsibility
+- Command
+- Interpreter
+- Iterator
+- Mediator
+- Memento
+- Observer
+- State
+- Strategy
+- Template method
+- Visitor
