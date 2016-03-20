@@ -4,7 +4,7 @@ Description = ""
 Tags = ["Development", "golang"]
 date = "2016-03-18T07:58:14+09:00"
 menu = "main"
-title = "kotlin bytecode"
+title = "Kotlin bytecode"
 
 +++
 
