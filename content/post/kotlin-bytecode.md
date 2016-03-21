@@ -9,7 +9,7 @@ title = "Kotlin bytecode"
 +++
 
 You are able to view the compoiled bytecode.  
-You can learn more about hot it works under the covers.
+You can learn more about how it works under the covers.
 Kotlin plugin for IDEA comes with a bytecode view tool.
 
 + Tools
