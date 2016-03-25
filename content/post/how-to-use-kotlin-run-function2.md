@@ -4,7 +4,7 @@ Description = ""
 Tags = ["Development", "golang"]
 date = "2016-03-25T14:44:53+09:00"
 menu = "main"
-title = "how to use kotlin run function"
+title = "How to use kotlin run function"
 
 +++
 I don't know that how to use run function in Kotlin.
