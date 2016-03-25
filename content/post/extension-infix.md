@@ -4,7 +4,7 @@ Description = ""
 Tags = ["Development", "golang"]
 date = "2016-03-25T15:15:29+09:00"
 menu = "main"
-title = "extension infix"
+title = "Extension And Infix"
 
 +++
 I wrote a sample of the extension and the infix in Kotlin. 
