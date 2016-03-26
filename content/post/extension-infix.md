@@ -21,7 +21,6 @@ false
 
 Infix and Extension
 ```
->>> fun Int.sameAge(a:Int): Boolean { return this == a }
 >>> infix fun Int.sameAge(a:Int): Boolean { return this == a}
 >>> 10 sameAge 10
 true
