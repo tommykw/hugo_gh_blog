@@ -8,7 +8,9 @@ title = "Stack hello world"
 
 +++
 Stack is famous for Haskell package manager. 
-As a web developer I am used to clear tutorial that I can understand.
+As a web developer I am used to clear tutorial that I can understand and learn.
+Let's make a sample app.
+
 
 ## Installing Stack
 Install on OSX through homebrew
@@ -21,18 +23,22 @@ $ brew install haskell-stack
 ```
 $ stack new hello-world
 ```
+Stack has some templates you can use your app. 
 
 ## Installing GHC
+Run this in your app.
 ```
 $ stack setup
 ```
 
 ## Building an Executable
+You can build with stack build
 ```
 $ stack buuild
 ```
 
 ## Run the app
+Runt the app. This is cool.
 ```
 $ stack exec hello-world-exe
 SomeFunc
