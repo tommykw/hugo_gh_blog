@@ -15,4 +15,16 @@ or the data type as a parameter. You can use the same source code.
 This programming is a very powerful, dynamic, highly parameterized software is difficult to understand
 than more static software.
 
-# Feature
+# Such as
+## Java
+Generics has been added in JDK1.5. Generics of Java code to produce only one of the compiled version of the generic class.
+Generics Java class can use only the object type as the type parameter.
+```
+List<Integer> // correct
+List<int> // incorrect
+```
+Generics is to check the correctness of the type at compile time.
+Generic type information is removed through a process referred to as a type deletion. 
+This is referred to as the erasure type. Only the type information of the parent class is held.
+
+## Haskell
