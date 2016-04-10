@@ -27,5 +27,21 @@ Generics is to check the correctness of the type at compile time.
 Generic type information is removed through a process referred to as a type deletion. 
 This is referred to as the erasure type. Only the type information of the parent class is held.
 
+There are several grammar.
+- Bounded type parameters
+```
+class Dog<E extends Animal> {}
+```
+- Multiple bounds
+```
+class Foo<E extends A & B & C> {}
+```
+- Bounded wildcard
+```
+class Foo(List<? extends Number> list) {}
+```
+-
+
 ## Haskell
 Haskell parameterized type, parametric polymorphism, there is a type class.
+
