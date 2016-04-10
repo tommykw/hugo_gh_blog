@@ -29,18 +29,22 @@ This is referred to as the erasure type. Only the type information of the parent
 
 There are several grammar.
 - Bounded type parameters
+
 ```
 class Dog<E extends Animal> {}
 ```
+
 - Multiple bounds
+
 ```
 class Foo<E extends A & B & C> {}
 ```
+
 - Bounded wildcard
+
 ```
 class Foo(List<? extends Number> list) {}
 ```
--
 
 ## Haskell
 Haskell parameterized type, parametric polymorphism, there is a type class.
