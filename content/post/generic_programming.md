@@ -28,6 +28,7 @@ Generic type information is removed through a process referred to as a type dele
 This is referred to as the erasure type. Only the type information of the parent class is held.
 
 There are several grammar.
+
 - Bounded type parameters
 
 ```
