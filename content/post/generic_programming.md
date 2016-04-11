@@ -50,3 +50,5 @@ class Foo(List<? extends Number> list) {}
 ## Haskell
 Haskell parameterized type, parametric polymorphism, there is a type class.
 
+## Kotlin
+
