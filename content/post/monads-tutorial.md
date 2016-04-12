@@ -7,4 +7,4 @@ menu = "main"
 title = "Monads tutorial"
 
 +++
-
+In this article I check that how to use Monads.
