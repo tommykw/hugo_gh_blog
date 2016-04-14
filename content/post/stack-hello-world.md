@@ -34,7 +34,7 @@ $ stack setup
 ## Building an Executable
 You can build with stack build
 ```
-$ stack buuild
+$ stack build
 ```
 
 ## Run the app
