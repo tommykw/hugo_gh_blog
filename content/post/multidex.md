@@ -8,4 +8,5 @@ title = "Multidex"
 
 +++
 This article describes the multidex in Android.
-
+dex file that exist in th package of the apk. that of the Dalvik Executable.
+Generated is converted from a class file.
