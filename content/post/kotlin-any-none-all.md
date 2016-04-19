@@ -9,7 +9,7 @@ title = "Kotlin any none all"
 +++
 In this artile describes the colletion function of the stream api of Kotlin.
 
-* any
+## any
 - Or also applies to conditions in one
 
 ```
@@ -19,7 +19,7 @@ true
 false
 ```
 
-* none
+## none
 - It dose not apply to the conditions
 
 ```
@@ -29,7 +29,7 @@ true
 false
 ```
 
-* all
+## all
 - It applies to all conditions
 
 ```
