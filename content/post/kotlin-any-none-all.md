@@ -2,9 +2,9 @@
 Categories = ["Development", "GoLang"]
 Description = ""
 Tags = ["Development", "golang"]
-date = "2016-04-16T13:43:06+09:00"
+date = "2016-04-19T22:58:20+09:00"
 menu = "main"
-title = "Information Control Engineering"
+title = "Kotlin any none all"
 
 +++
 
