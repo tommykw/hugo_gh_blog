@@ -7,4 +7,4 @@ menu = "main"
 title = "Groovy"
 
 +++
-
+It is a dynamic programming language that runs on the JVM.
