@@ -4,7 +4,7 @@ Description = ""
 Tags = ["Development", "golang"]
 date = "2016-05-03T12:57:48+09:00"
 menu = "main"
-title = "retrieve UserAgent programatically"
+title = "Retrieve UserAgent programatically"
 
 +++
 In the android app, it describes how to obtain the general UserAgent.
@@ -42,5 +42,6 @@ public class UserAgentGetter {
 }
 ```
 
-Also See
+Also See  
+
 http://stackoverflow.com/questions/3626071/retrieve-user-agent-programatically/5261472#5261472
