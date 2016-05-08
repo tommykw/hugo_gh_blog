@@ -8,4 +8,4 @@ title = "Applet"
 
 +++
 Java Applet is a program that can run on the Web browser or applet viewer.
-Java Application. on the JavaVM, is a program that works alone.
+Java Application is a program that works alone. Itself will operate as an independent program.
