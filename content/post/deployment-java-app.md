@@ -7,4 +7,4 @@ menu = "main"
 title = "Deployment java app"
 
 +++
-
+To deploy the application in Tomcat, that the war file.
