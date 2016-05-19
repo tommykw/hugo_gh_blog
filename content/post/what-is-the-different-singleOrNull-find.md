@@ -16,4 +16,10 @@ null
 1
 ```
 
-
+The following is the same result
+```
+>>> listOf(1,2,3).singleOrNull { it == 1 }
+1
+>>> listOf(1,2,3).find { it == 1 }
+1
+```
