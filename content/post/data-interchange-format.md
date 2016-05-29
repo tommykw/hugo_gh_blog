@@ -7,9 +7,10 @@ menu = "main"
 title = "Data interchange format"
 
 +++
-Data interchange format are as follows:
+Data interchange format is as follows:
+
 - [Protocol Buffers](https://github.com/google/protobuf)
  - Protocol Buffers is Google's data interchange format
-- [Serializable]
+- [Serializable](hoge)
  - It called the serialization or serialize it to write the object to the output stream
 - [Parcelable](https://developer.android.com/reference/android/os/Parcelable.html) 
