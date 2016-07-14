@@ -7,6 +7,7 @@ menu = "main"
 title = "Kotlin any none all"
 
 +++
+
 In this artile describes the colletion function of the stream api of Kotlin.
 
 ## any
