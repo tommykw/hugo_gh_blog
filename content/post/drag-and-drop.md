@@ -8,6 +8,7 @@ title = "Drag and drop"
 
 +++
 The animation implementation of drag-and-drop I wrote in kotlin.
+This is a very easy and simple.
 
 ```
 // from view
