@@ -12,6 +12,7 @@ I will explain the semantic validation of Kotlin.
 
 ## Argument validaiton
 - require
+
 `require` checks arguments.
 Seeing the following sources shows you throwing `IllegalArgumentException`
 
@@ -27,6 +28,7 @@ public inline fun require(value: Boolean, lazyMessage: () -> Any): Unit {
 
 ## State validation
 - check
+
 `check` checks states.
 Seeing the following sources shows you throwing `IllegalStateException`
 
@@ -42,6 +44,7 @@ public inline fun check(value: Boolean, lazyMessage: () -> Any): Unit {
 
 ## Assertion validation
 - assert
+
 An assertion is described as a row and serves as a checkpoint.
 If you describe it before any processing you can check the precondition and if it is
 later you can check the postcondition.
