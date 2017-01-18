@@ -11,7 +11,8 @@ Kotlin is nullsafe, but there are things to keep in mind when using Kotlin from 
 Kotlin has an implementation that accepts it as `T!` Type called Platform types. For example, it is as follows.
 
 ```
-fun getString(key:String, defValue:String) = sharedPref.getString(key:String, defValue:String) // platform types
+fun getString(key:String, defValue:String) = sharedPref.getString(key:String, defValue:String) // platform types. return value is T!
+fun getString(key:String, defValue:String): String? = sharedPref.getString(key:String, defValue:String) // Declare it to be nullable
 ```
 
 The above is a simplified method of `SharedPreferences#getString`. but `SharedPreferences#getString` returns @Nullable String.
